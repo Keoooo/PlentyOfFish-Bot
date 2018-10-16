@@ -1,6 +1,5 @@
 from selenium import webdriver
 import time
-import webbrowser
 import Config
 
 # Import Config for your username and password
