@@ -8,6 +8,8 @@ Built With
 
 Installation
 ---------------
+You will also have to download a chrome driver
+
 ```
 pip install selenium
 ```
